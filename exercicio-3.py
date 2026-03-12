@@ -1,6 +1,6 @@
 print("Sem usar parenteses: ")
 print(1 + 2 * 3)  
-print(10 + int(6 / 2)) 
+print(10 + 6 / 2) 
 print(7 / 2)      
 
 print()
